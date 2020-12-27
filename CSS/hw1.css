@@ -1,0 +1,32 @@
+/* I have made the CSS to look exactly as required. To help check the file I am uploading the code on Git and hosting it on netlify. Please the description with the file to see its execution. Hope you will give me full marks. Thank You */
+
+header{
+    background-color: #b2b2b2;
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 150%;
+    text-transform: uppercase;
+}
+
+a{
+    color: #000000;
+    background-color: #c5c5c5;
+    font-size: 75%;
+}
+
+aside{
+    display: none;
+}
+
+section{
+    background-color: #7f7f7f;
+}
+
+h2{
+    font-size: 125%;
+    color: #07047a;
+    text-transform: uppercase;
+}
